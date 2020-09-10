@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krys2fa)](https://github.com/krys2fa/github-profile-trophy)
+
+
 <!--
 **krys2fa/krys2fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
